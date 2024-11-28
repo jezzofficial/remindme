@@ -37,7 +37,7 @@ vim ~/.zshrc
 ~~~
 _Вписываете эту строчку в конец файла_
 ~~~bash
-alias remind='/home/<user>/ПУТЬ ХРАНЕНИЯ ФАЙЛА/remind.py'
+alias remind='python /home/<user>/ПУТЬ ХРАНЕНИЯ ФАЙЛА/remind.py'
 ~~~
 
 #### Настройка для bashrc:
