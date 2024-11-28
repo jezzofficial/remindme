@@ -46,7 +46,7 @@ vim ~/.bashrc
 ~~~
 _Вписываете эту строчку в конец файла_
 ~~~bash
-alias remind='/home/<user>/ПУТЬ ХРАНЕНИЯ ФАЙЛА/remind.py'
+alias remind='python /home/<user>/ПУТЬ ХРАНЕНИЯ ФАЙЛА/remind.py'
 ~~~
 
 ><b>Все так подробно расписано исключительно для новичков</b>
